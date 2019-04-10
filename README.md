@@ -1,5 +1,9 @@
 # Hello-World
 My first Project
-print "hello world"
-end
-goto 1
+epic
+
+Public static void main(String args[])
+
+   public class epic {
+    System.out.println("Hey there");
+   }
